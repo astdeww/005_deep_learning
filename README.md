@@ -77,6 +77,4 @@ Metode yang menggabungkan beberapa arsitektur dasar untuk saling melengkapi kele
     - CNN + LSTM / CNN + GRU: Menggabungkan CNN untuk ekstraksi fitur spasial dan RNN untuk fitur temporal (sangat umum digunakan pada video atau sensor pintar).
     - Autoencoder + GAN / AE + CNN: Menggabungkan kekuatan model generatif dan supervised untuk augmentasi data atau meningkatkan ketahanan model.
 
----
-
 
