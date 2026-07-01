@@ -20,3 +20,14 @@ Hebatnya, dalam Deep Learning, proses pencarian dan pengenalan ciri-ciri (fitur)
 - <b>Machine Learning</b> Tradisional: Membutuhkan intervensi manusia untuk memilih ciri data secara manual (feature engineering). Jika ingin mendeteksi penipuan transaksi, manusia harus menentukan indikatornya dulu (misal: lokasi transaksi, jam transaksi).
 
 - <b>Deep Learning</b>: Data mentah langsung dimasukkan ke dalam model, dan biarkan algoritma yang bekerja sendiri untuk menemukan hubungan atau pola tersembunyi yang bahkan mungkin terlewat oleh logika manusia.
+
+--- 
+
+<b>Mengapa Deep Learning Sangat Perkasa Saat Ini?</b>
+- <b>Skalabilitas Data</b>: Model Machine Learning tradisional punya batas optimal; setelah mencapai titik tertentu, performanya tidak akan meningkat walau diberi tambahan data. Sebaliknya, performa Deep Learning justru terus meroket seiring semakin banyaknya data (Big Data) yang diberikan.
+
+- <b>Dukungan Komputasi Modern</b>: Proses Deep Learning melibatkan miliaran operasi matematika (perkalian matriks). Perkembangan hardware seperti GPU dan TPU membuat pelatihan model raksasa ini bisa diselesaikan dalam hitungan hari atau jam, bukan lagi tahun.
+
+Teknologi inilah yang menjadi otak di balik deteksi wajah di HP, sistem mobil otonom (self-driving cars), pengenalan suara (seperti Siri atau Google Assistant), hingga model bahasa besar (LLM) yang kita gunakan saat ini.
+
+===
