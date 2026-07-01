@@ -63,10 +63,8 @@ Model ini dilatih menggunakan data tanpa label untuk menemukan pola tersembunyi 
 
 ## 3. Arsitektur Transformer
 Model yang menggantikan mekanisme sekuensial RNN dengan mekanisme fokus penuh bernama self-attention. Transformer memungkinkan pelatihan data dilakukan secara paralel sehingga jauh lebih cepat dan efisien.
-
-Varian NLP: BERT, GPT, Transformer-XL, dan XLNet.
-
-Varian Computer Vision: Vision Transformer (ViT), Swin Transformer, dan Transformer in Transformer (TNT).
+    - Varian NLP: BERT, GPT, Transformer-XL, dan XLNet.
+    - Varian Computer Vision: Vision Transformer (ViT), Swin Transformer, dan Transformer in Transformer (TNT).
 
 ## 4. Deep Reinforcement Learning (DRL)
 Metode yang menggabungkan kemampuan persepsi Deep Learning dengan prinsip Reinforcement Learning (pengambilan keputusan berbasis agen). Agen belajar secara mandiri melalui trial and error untuk memaksimalkan reward dari lingkungan. Contoh modelnya adalah Deep Q-learning Network (DQN), Double DQN, dan Dueling DQN.
@@ -76,10 +74,9 @@ Metode memindahkan pengetahuan atau bobot (weights) yang sudah dipelajari oleh s
 
 ## 6. Model Hibrida (Hybrid Deep Learning Models)
 Metode yang menggabungkan beberapa arsitektur dasar untuk saling melengkapi kelemahan masing-masing. Kombinasi yang paling sering digunakan di industri meliputi:
+    - CNN + LSTM / CNN + GRU: Menggabungkan CNN untuk ekstraksi fitur spasial dan RNN untuk fitur temporal (sangat umum digunakan pada video atau sensor pintar).
+    - Autoencoder + GAN / AE + CNN: Menggabungkan kekuatan model generatif dan supervised untuk augmentasi data atau meningkatkan ketahanan model.
 
-CNN + LSTM / CNN + GRU: Menggabungkan CNN untuk ekstraksi fitur spasial dan RNN untuk fitur temporal (sangat umum digunakan pada video atau sensor pintar).
-
-Autoencoder + GAN / AE + CNN: Menggabungkan kekuatan model generatif dan supervised untuk augmentasi data atau meningkatkan ketahanan model.
 ---
 
 
