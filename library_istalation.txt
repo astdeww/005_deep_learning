@@ -13,4 +13,4 @@
     pip install tensorflow torch torchvision
 
 4. Daftarkan Environment sebagai Kernel
-    python -m ipykernel install --user --name=dl_env --display-name="Deep Learning"
+    python -m ipykernel install --user --name=env_dl --display-name="Deep Learning"
